@@ -49,10 +49,10 @@ I enjoy transforming simple concepts into polished, high-end interfaces
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ZAIN1786-TECH&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ZAIN1786-TECH&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZAIN1786-TECH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZAIN1786-TECH&theme=radical&hide_border=true
+https://streak-stats.demolab.com?user=ZAIN1786-TECH&theme=radical&hide_border=true
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZAIN1786-TECH&layout=compact&theme=radical&hide_border=true
+https://github-profile-trophy.vercel.app/?username=ZAIN1786-TECH&theme=radical&no-frame=true&no-bg=true
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ZAIN1786-TECH&theme=dark&no-frame=false&no-bg=true&margin-w=4)
