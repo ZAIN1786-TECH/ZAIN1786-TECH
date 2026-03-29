@@ -37,16 +37,6 @@
 
 ---
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZAIN1786-TECH&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=ZAIN1786-TECH&theme=radical&hide_border=true&background=0D1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZAIN1786-TECH&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="140"/>
-</p>
 
 ---
 
@@ -58,21 +48,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZAIN1786-TECH/ZAIN1786-TECH/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZAIN1786-TECH&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
 
 ## ✨ Dev Quote
 
@@ -81,12 +57,6 @@
 </p>
 
 ---
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ZAIN1786-TECH&icon=5&color=6"/>
-</p>
 
 ---
 
