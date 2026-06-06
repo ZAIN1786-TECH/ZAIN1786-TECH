@@ -23,7 +23,7 @@ I engineer high-converting, performance-optimized, and production-ready React & 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,nodejs,firebase,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,firebase,git,github,vscode,figma&theme=dark" />
 </p>
 
 ### Expert In:
