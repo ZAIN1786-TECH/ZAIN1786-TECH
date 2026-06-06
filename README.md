@@ -4,7 +4,7 @@
 <h3 align="center">Next.js & React Specialist • Senior Frontend Engineer • SaaS Architecture</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Next.js+%26+React+Specialist;SaaS+Architecture+Expert;Figma-to-Code+Conversions;High-Converting+UI%2FUX+💎" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=550&lines=Next.js+%26+React+Specialist;SaaS+Architecture+Expert;Figma-to-Code+Conversions;High-Converting+UI%2FUX+💎" />
 </p>
 
 ---
