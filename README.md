@@ -1,35 +1,38 @@
 <!-- HEADER -->
-
 <h1 align="center">Hi 👋, I'm Zain Ul Hassan</h1>
-<h3 align="center">Next.js & React Specialist • Senior Frontend Engineer • SaaS Architecture</h3>
+<h3 align="center">Full Stack Developer • AI SaaS Applications • React & Next.js Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=550&lines=Next.js+%26+React+Specialist;SaaS+Architecture+Expert;Figma-to-Code+Conversions;High-Converting+UI%2FUX+💎" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI-Powered+SaaS+Applications;React+%26+Next.js+Specialist;Supabase+%2B+PostgreSQL+Backend+💎" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I engineer high-converting, performance-optimized, and production-ready React & Next.js applications for SaaS startups, agencies, and enterprise platforms. I don't just write code—I build frontend experiences that drive business ROI.
+I engineer full-stack, AI-powered SaaS applications — from database architecture to production deployment — for startups, founders, and agencies. I don't just write code, I build products that ship, scale, and drive real business outcomes.
 
-* 🛠️ **Specialization**: Elite SaaS frontend development, robust multi-tenant architectures, and complex API integrations.
-* 🎨 **Pixel-Perfect Execution**: Transforming intricate Figma designs into production-ready UI utilizing `shadcn/ui`, Radix UI, and Framer Motion.
-* ⚡ **Performance Obsessed**: Optimizing core web vitals to deliver blazing-fast Lighthouse 95+ scores and flawless SEO.
-* 🤖 **AI-Powered UIs**: Experienced in embedding advanced AI workflows, custom dashboards, and lead-recovery tools into SaaS platforms.
+* 🛠️ **Full Stack Development**: React, Next.js, and TypeScript on the frontend, paired with Supabase, PostgreSQL, and Node.js on the backend.
+* 🎨 **Pixel-Perfect Execution**: Transforming Figma designs into production-ready UI using `shadcn/ui`, Radix UI, and Framer Motion.
+* 🤖 **AI-Powered SaaS**: Integrating OpenAI API and Claude API to build real, functional AI features — not just chatbots bolted on.
+* 🔐 **Secure, Scalable Backends**: Supabase Auth, Row Level Security, Edge Functions, and REST API architecture built for multi-tenant SaaS.
+* ⚡ **Performance Obsessed**: Optimized Core Web Vitals, Lighthouse 95+ scores, and clean, scalable architecture.
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,firebase,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,supabase,postgres,firebase,git,github,vscode,figma&theme=dark" />
 </p>
 
 ### Expert In:
+
 * **Frontend:** Next.js, React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Redux Toolkit, React Query, Framer Motion
+* **Backend & Database:** Node.js, Supabase (PostgreSQL, Auth, Row Level Security, Edge Functions, Realtime), Firebase, RESTful APIs
+* **AI Integrations:** OpenAI API, Claude API, AI-Powered SaaS Workflows
+* **Payments & Integrations:** Stripe Integration, Third-Party API Integration
 * **UI & Design Systems:** shadcn/ui, Radix UI, Headless UI, Figma-to-Code, Component-Driven Development
-* **Backend & APIs:** RESTful APIs, Node.js, Firebase, OpenAI & Claude API Integrations
 * **Deployment & Workflows:** Vercel, Netlify, CI/CD pipelines, Git, Clean Code Architecture
 
 ---
@@ -63,5 +66,5 @@ I respond fast and love working with product-driven founders and teams. Let's bu
 ---
 
 <p align="center">
-  💡 <i>"Every component should serve a purpose: more conversions, cleaner code, and seamless scale."</i>
+  💡 <i>"Full stack isn't about knowing every layer — it's about owning the outcome, end to end."</i>
 </p>
