@@ -3,7 +3,13 @@
 <h3 align="center">Full Stack Developer • AI SaaS Applications • React & Next.js Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI-Powered+SaaS+Applications;React+%26+Next.js+Specialist;Supabase+%2B+PostgreSQL+Backend+💎" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=00008B&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;AI-Powered+SaaS+Applications;React+%26+Next.js+Specialist;Supabase+%2B+PostgreSQL+Backend+%F0%9F%92%8E" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ZUH-webdev?color=2396ED&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ZUH-webdev?style=flat&color=2396ED" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=ZUH-webdev&color=2396ED" alt="profile views" />
 </p>
 
 ---
@@ -23,7 +29,9 @@ I engineer full-stack, AI-powered SaaS applications — from database architectu
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,supabase,postgres,firebase,git,github,vscode,figma&theme=dark" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,supabase,postgres,firebase,git,github,vscode,figma&theme=dark" />
+  </a>
 </p>
 
 ### Expert In:
